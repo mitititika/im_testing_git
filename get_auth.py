@@ -4,3 +4,7 @@ def get_user():
 
 def get_user_name():
     return "User_name_obviuselysdlfjalzskjf"
+
+
+def get_user_name():
+    return "User_name_obviuselysdlfjalzskjf"
