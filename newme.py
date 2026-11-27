@@ -7,7 +7,7 @@ def get_user_name():
 
 
 def get_user_name():
-    return "User_name_obviuselysdlfjalzskjf"
+    return "omg im sorry boss that wont happend again"
 
 
 def get_user():
